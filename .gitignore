@@ -25,3 +25,6 @@ doc/
 
 # assets
 asset/
+.gradle/
+build
+.gradle/
